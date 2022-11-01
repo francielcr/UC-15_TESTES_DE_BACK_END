@@ -1,0 +1,12 @@
+D:\Analise de sistema - Estácio\SENAI -  FULLSTACK\PFS_UC15 - Testes de Back-End - Turma 4\Atividades\ER2\Projeto_teste\Projeto_teste\Projeto_teste\bin\Debug\net6.0\Projeto_teste.deps.json
+D:\Analise de sistema - Estácio\SENAI -  FULLSTACK\PFS_UC15 - Testes de Back-End - Turma 4\Atividades\ER2\Projeto_teste\Projeto_teste\Projeto_teste\bin\Debug\net6.0\Projeto_teste.dll
+D:\Analise de sistema - Estácio\SENAI -  FULLSTACK\PFS_UC15 - Testes de Back-End - Turma 4\Atividades\ER2\Projeto_teste\Projeto_teste\Projeto_teste\bin\Debug\net6.0\Projeto_teste.pdb
+D:\Analise de sistema - Estácio\SENAI -  FULLSTACK\PFS_UC15 - Testes de Back-End - Turma 4\Atividades\ER2\Projeto_teste\Projeto_teste\Projeto_teste\obj\Debug\net6.0\Projeto_teste.csproj.AssemblyReference.cache
+D:\Analise de sistema - Estácio\SENAI -  FULLSTACK\PFS_UC15 - Testes de Back-End - Turma 4\Atividades\ER2\Projeto_teste\Projeto_teste\Projeto_teste\obj\Debug\net6.0\Projeto_teste.GeneratedMSBuildEditorConfig.editorconfig
+D:\Analise de sistema - Estácio\SENAI -  FULLSTACK\PFS_UC15 - Testes de Back-End - Turma 4\Atividades\ER2\Projeto_teste\Projeto_teste\Projeto_teste\obj\Debug\net6.0\Projeto_teste.AssemblyInfoInputs.cache
+D:\Analise de sistema - Estácio\SENAI -  FULLSTACK\PFS_UC15 - Testes de Back-End - Turma 4\Atividades\ER2\Projeto_teste\Projeto_teste\Projeto_teste\obj\Debug\net6.0\Projeto_teste.AssemblyInfo.cs
+D:\Analise de sistema - Estácio\SENAI -  FULLSTACK\PFS_UC15 - Testes de Back-End - Turma 4\Atividades\ER2\Projeto_teste\Projeto_teste\Projeto_teste\obj\Debug\net6.0\Projeto_teste.csproj.CoreCompileInputs.cache
+D:\Analise de sistema - Estácio\SENAI -  FULLSTACK\PFS_UC15 - Testes de Back-End - Turma 4\Atividades\ER2\Projeto_teste\Projeto_teste\Projeto_teste\obj\Debug\net6.0\Projeto_teste.dll
+D:\Analise de sistema - Estácio\SENAI -  FULLSTACK\PFS_UC15 - Testes de Back-End - Turma 4\Atividades\ER2\Projeto_teste\Projeto_teste\Projeto_teste\obj\Debug\net6.0\refint\Projeto_teste.dll
+D:\Analise de sistema - Estácio\SENAI -  FULLSTACK\PFS_UC15 - Testes de Back-End - Turma 4\Atividades\ER2\Projeto_teste\Projeto_teste\Projeto_teste\obj\Debug\net6.0\Projeto_teste.pdb
+D:\Analise de sistema - Estácio\SENAI -  FULLSTACK\PFS_UC15 - Testes de Back-End - Turma 4\Atividades\ER2\Projeto_teste\Projeto_teste\Projeto_teste\obj\Debug\net6.0\ref\Projeto_teste.dll
