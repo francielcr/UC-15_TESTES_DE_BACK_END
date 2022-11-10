@@ -1,0 +1,12 @@
+D:\Analise de sistema - Estácio\SENAI -  FULLSTACK\PFS_UC15 - Testes de Back-End - Turma 4\Atividades\Atividade Online 2\TesteIMC\TesteIMC\TesteIMC\bin\Debug\net6.0\TesteIMC.deps.json
+D:\Analise de sistema - Estácio\SENAI -  FULLSTACK\PFS_UC15 - Testes de Back-End - Turma 4\Atividades\Atividade Online 2\TesteIMC\TesteIMC\TesteIMC\bin\Debug\net6.0\TesteIMC.dll
+D:\Analise de sistema - Estácio\SENAI -  FULLSTACK\PFS_UC15 - Testes de Back-End - Turma 4\Atividades\Atividade Online 2\TesteIMC\TesteIMC\TesteIMC\bin\Debug\net6.0\TesteIMC.pdb
+D:\Analise de sistema - Estácio\SENAI -  FULLSTACK\PFS_UC15 - Testes de Back-End - Turma 4\Atividades\Atividade Online 2\TesteIMC\TesteIMC\TesteIMC\obj\Debug\net6.0\TesteIMC.csproj.AssemblyReference.cache
+D:\Analise de sistema - Estácio\SENAI -  FULLSTACK\PFS_UC15 - Testes de Back-End - Turma 4\Atividades\Atividade Online 2\TesteIMC\TesteIMC\TesteIMC\obj\Debug\net6.0\TesteIMC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Analise de sistema - Estácio\SENAI -  FULLSTACK\PFS_UC15 - Testes de Back-End - Turma 4\Atividades\Atividade Online 2\TesteIMC\TesteIMC\TesteIMC\obj\Debug\net6.0\TesteIMC.AssemblyInfoInputs.cache
+D:\Analise de sistema - Estácio\SENAI -  FULLSTACK\PFS_UC15 - Testes de Back-End - Turma 4\Atividades\Atividade Online 2\TesteIMC\TesteIMC\TesteIMC\obj\Debug\net6.0\TesteIMC.AssemblyInfo.cs
+D:\Analise de sistema - Estácio\SENAI -  FULLSTACK\PFS_UC15 - Testes de Back-End - Turma 4\Atividades\Atividade Online 2\TesteIMC\TesteIMC\TesteIMC\obj\Debug\net6.0\TesteIMC.csproj.CoreCompileInputs.cache
+D:\Analise de sistema - Estácio\SENAI -  FULLSTACK\PFS_UC15 - Testes de Back-End - Turma 4\Atividades\Atividade Online 2\TesteIMC\TesteIMC\TesteIMC\obj\Debug\net6.0\TesteIMC.dll
+D:\Analise de sistema - Estácio\SENAI -  FULLSTACK\PFS_UC15 - Testes de Back-End - Turma 4\Atividades\Atividade Online 2\TesteIMC\TesteIMC\TesteIMC\obj\Debug\net6.0\refint\TesteIMC.dll
+D:\Analise de sistema - Estácio\SENAI -  FULLSTACK\PFS_UC15 - Testes de Back-End - Turma 4\Atividades\Atividade Online 2\TesteIMC\TesteIMC\TesteIMC\obj\Debug\net6.0\TesteIMC.pdb
+D:\Analise de sistema - Estácio\SENAI -  FULLSTACK\PFS_UC15 - Testes de Back-End - Turma 4\Atividades\Atividade Online 2\TesteIMC\TesteIMC\TesteIMC\obj\Debug\net6.0\ref\TesteIMC.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteIMC", "TesteIMC\TesteIMC.csproj", "{54FAAFAC-C3F1-491B-87C7-6FD341A9AECE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestarIMC", "TestarIMC\TestarIMC.csproj", "{93C91CF0-449A-46FC-8C7E-82C7447F49CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54FAAFAC-C3F1-491B-87C7-6FD341A9AECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54FAAFAC-C3F1-491B-87C7-6FD341A9AECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54FAAFAC-C3F1-491B-87C7-6FD341A9AECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54FAAFAC-C3F1-491B-87C7-6FD341A9AECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93C91CF0-449A-46FC-8C7E-82C7447F49CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93C91CF0-449A-46FC-8C7E-82C7447F49CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93C91CF0-449A-46FC-8C7E-82C7447F49CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93C91CF0-449A-46FC-8C7E-82C7447F49CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB913757-B1D0-486A-AC9A-0A656A1E9DE1}
+	EndGlobalSection
+EndGlobal
