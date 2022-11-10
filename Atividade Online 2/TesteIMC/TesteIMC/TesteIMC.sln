@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteIMC", "TesteIMC\TesteI
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestarIMC", "TestarIMC\TestarIMC.csproj", "{93C91CF0-449A-46FC-8C7E-82C7447F49CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteIMCXunit", "TesteIMCXunit\TesteIMCXunit.csproj", "{1C99B9D4-3958-4F64-8BE8-5EBB4D47F73D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{93C91CF0-449A-46FC-8C7E-82C7447F49CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93C91CF0-449A-46FC-8C7E-82C7447F49CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93C91CF0-449A-46FC-8C7E-82C7447F49CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C99B9D4-3958-4F64-8BE8-5EBB4D47F73D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C99B9D4-3958-4F64-8BE8-5EBB4D47F73D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C99B9D4-3958-4F64-8BE8-5EBB4D47F73D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C99B9D4-3958-4F64-8BE8-5EBB4D47F73D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
